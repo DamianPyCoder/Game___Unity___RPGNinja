@@ -10,9 +10,11 @@
    Select or Attack:   Mouse click
 ```
 
-![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/6.png)  
+![](https://github.com/DamianPyCoder/Game___Unity___RPGNinja/blob/main/picts/6.png)  
 
-![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/2.png)  
+  
+![](https://github.com/DamianPyCoder/Game___Unity___RPGNinja/blob/main/picts/2.png)  
+  
 
-![](https://github.com/DamianPyCoder/Unity__Game__EndlessRunner3D/blob/main/Screenshots_RPGGame/9.png)  
+![](https://github.com/DamianPyCoder/Game___Unity___RPGNinja/blob/main/picts/9.png)  
 
